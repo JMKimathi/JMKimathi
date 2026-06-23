@@ -2,13 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Engineering+Student+%7C+Mobile+Developer+%7C+Cloud+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm Kimathi John Mwiti 👋
+# Hi there, I'm Kimathi John Mwiti
 
 I'm a Software Engineering student passionate about building innovative solutions that solve real-world problems. My interests span mobile application development, cloud computing, IoT systems, and software engineering, with a focus on creating impactful and user-centered applications.
 
-* 🔭 **Current Focus:** Developing **UniPool**, a ride-sharing mobile application for university students, while exploring cloud-based solutions and real-time location services.
-* 🌱 **Learning & Exploration:** AWS Cloud Computing, Jetpack Compose, Firebase, Google Maps API, Mobile Application Development, and Software Architecture.
-* ⚡ **Core Interests:** Mobile Applications, Cloud Computing, Internet of Things (IoT), Software Engineering, Database Systems, and Smart Transportation Solutions.
+* **Current Focus:** Developing **UniPool**, a ride-sharing mobile application for university students, while exploring cloud-based solutions and real-time location services.
+* **Learning & Exploration:** AWS Cloud Computing, Jetpack Compose, Firebase, Google Maps API, Mobile Application Development, and Software Architecture.
+* **Core Interests:** Mobile Applications, Cloud Computing, Internet of Things (IoT), Software Engineering, Database Systems, and Smart Transportation Solutions.
 
 ---
 
@@ -62,11 +62,11 @@ I'm a Software Engineering student passionate about building innovative solution
 
 ## Current Projects
 
-🚗 **UniPool** – A student-focused ride-sharing mobile application.
+**UniPool** – A student-focused ride-sharing mobile application.
 
-☁️ **AWS Cloud Learning Projects** – Exploring cloud architecture, storage, and deployment.
+**AWS Cloud Learning Projects** – Exploring cloud architecture, storage, and deployment.
 
-🌊 **IoT Water Monitoring System** – Smart water-level monitoring and notification solution.
+**IoT Water Monitoring System** – Smart water-level monitoring and notification solution.
 
 ---
 
