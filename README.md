@@ -40,8 +40,6 @@ I'm a Software Engineering student passionate about building innovative solution
 
 🏆 AWS Training & Certification Participant
 
-🏆 Dean's List Recognition
-
 🏆 Active Software Engineering Project Developer
 
 ---
